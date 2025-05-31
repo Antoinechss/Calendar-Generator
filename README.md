@@ -1,4 +1,5 @@
-# Calendar-Generator
+# Calendar-Generator ![logo-couleur](https://github.com/user-attachments/assets/a744f79b-dfa5-46a6-aec0-4c4ed2f944ae)
+
 
 This application lets you generate a mission timeline with customizable phases, durations, and JEHs (working units), then download it as a png image. It was made as a tool for Ponts Etudes Projets, the junior consulting association from Ponts Uni. 
 
