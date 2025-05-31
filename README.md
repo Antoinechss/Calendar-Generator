@@ -1,4 +1,7 @@
-# Calendar-Generator ![logo-couleur](https://github.com/user-attachments/assets/a744f79b-dfa5-46a6-aec0-4c4ed2f944ae)
+<h1>
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/calendar-icon.png" alt="calendar icon" width="40" style="vertical-align: middle; margin-right: 10px;"/>
+  Mission Calendar Generator
+</h1>
 
 
 This application lets you generate a mission timeline with customizable phases, durations, and JEHs (working units), then download it as a png image. It was made as a tool for Ponts Etudes Projets, the junior consulting association from Ponts Uni. 
