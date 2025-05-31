@@ -1,6 +1,6 @@
 <h1>
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/calendar-icon.png" alt="calendar icon" width="40" style="vertical-align: middle; margin-right: 10px;"/>
-  Mission Calendar Generator
+  <img src="https://github.com/user-attachments/assets/451fe7b3-895d-4cf8-9704-e37e25edea98" alt="logo" width="60" style="vertical-align: middle; margin-right: 10px;"/>
+Mission Calendar Generator for Ponts Études Projets
 </h1>
 
 
